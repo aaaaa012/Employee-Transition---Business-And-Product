@@ -134,7 +134,7 @@
 14. Conclusion
      The Employee Transition system provides a strucutred. automated process for employee movements
 
-      From a BA/PM perspective, it demonstrates
-        - Alignment of business needs with system features
-        - Clear workflows and accountability
-        - Opportunities for analytics, automation, and improved user experience
+    From a BA/PM perspective, it demonstrates
+    - Alignment of business needs with system features
+    - Clear workflows and accountability
+    - Opportunities for analytics, automation, and improved user experience
