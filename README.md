@@ -89,29 +89,29 @@
      - Future enhancements, audit logs, role change tracking, departmental mapping
 
     8.2   API Endpoints
-        Authentication
-         - POST/ api/ auth/register - Register user
-         - POST/api/auth/login - Login and JWT
-         - GET/api/auth/check - Validate token
-        Employees
-         - GET/api/employees - List employees
-         - POST/api/employees - Create employee
-        Onboarding
-          -  Get /api/onboarding - List onboarding entires
-          - POST / api/onboarding - Create onboarding entry
-        Offboarding
-         - Get /api/offboarding - List offboarding entires
-         - POST /api/offboarding - Create offboarding entry
-        Documents
-         - Get /api/documents - List documents
-         - Get /api/documents?category=onboarding - Filter by category
-         - Get /api/documents - Upload document
-         - Get /api/documents/download/:id - Download document
+   Authentication
+    - POST /api/ auth/register - Register user
+    - POST /api/auth/login - Login and JWT
+    - GET /api/auth/check - Validate token
+   Employees
+    - GET /api/employees - List employees
+    - POST /api/employees - Create employee
+   Onboarding
+      - Get /api/onboarding - List onboarding entires
+      - POST / api/onboarding - Create onboarding entry
+   Offboarding
+       - Get /api/offboarding - List offboarding entires
+      - POST /api/offboarding - Create offboarding entry
+  Documents
+    - Get /api/documents - List documents
+    - Get /api/documents?category=onboarding - Filter by category
+    - Get /api/documents - Upload document
+    - Get /api/documents/download/:id - Download document
 
-         BA/PM Perspective:
-          - Endpoints map directly to user stories and workflows
-          - Data supports KPI dashboards 
-          - Role based access ensures compliance and security
+   BA/PM Perspective:
+    - Endpoints map directly to user stories and workflows
+    - Data supports KPI dashboards 
+    - Role based access ensures compliance and security
  10.  KPIs and Success Metrics
    - Average Completion time
    - First time approval rate
