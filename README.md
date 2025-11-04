@@ -2,17 +2,18 @@
 
 The Employee Transition project is designed to manage employee transitions within an organization, including onboarding, offboarding, role changes, equipment reassignment.
 
-   Business/ Product Objectives:
-    - Streamline employee transitions
-    - Automate approvals and notifications
-    - Provide transparency and analytics for managers, HR, and executives
-    - Enable data-driven decision-making
+2. Business/ Product Objectives:
+   - Streamline employee transitions
+   - Automate approvals and notifications
+   - Provide transparency and analytics for managers, HR, and executives
+   - Enable data-driven decision-making
       
 3. Problem Statement
    - Manual approval workflows cause delays
    - Lack of visibility for employees and managers
    - Miscommunication between departments
    - Documentation error affecting compliance
+     
    Goal: Implement an automated, auditable, and transparent system for smooth employee transitions
 
 4. User Stories
@@ -23,19 +24,19 @@ The Employee Transition project is designed to manage employee transitions withi
 
 5. Requirements
    Functional Requirements
-    - Submit and track employees transition requests.
-    - Multi-level approval workflow: Manager->HR->IT
-    - Automated notifications at each stage
-    - Dashboard for pending and completed requests
-    - Audit logs for compliance
-    - Search and filter requests by employee, department, or status
+   - Submit and track employees transition requests.
+   - Multi-level approval workflow: Manager->HR->IT
+   - Automated notifications at each stage
+   - Dashboard for pending and completed requests
+   - Audit logs for compliance
+   - Search and filter requests by employee, department, or status
 
   Non-Functional Requirements
-    - Role-based authentication and secure login
-    - Intuitive UI/UX for minimal training
-    - Scalable for multiple departments
-    - High system reliability
-    - Real-time notifications
+   - Role-based authentication and secure login
+   - Intuitive UI/UX for minimal training
+   - Scalable for multiple departments
+   - High system reliability
+   - Real-time notifications
 
 6. Process Flow
    [Employee] 
