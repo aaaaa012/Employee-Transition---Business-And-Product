@@ -72,7 +72,9 @@
      - Helps managers and HR monitor transitions efficiently
 
 8. Data Model and API Endpoints
+   
     8.1 Database Schema
+   
     Table Name                   Key Fields                                                                     Description                   
 |              |                                                                                   |                               |
 | users        | id, name, email, password, role, created_at                                         | Tracks system users and roles |
@@ -110,7 +112,7 @@
           - Endpoints map directly to user stories and workflows
           - Data supports KPI dashboards 
           - Role based access ensures compliance and security
- 9.  KPIs and Success Metrics
+ 10.  KPIs and Success Metrics
    - Average Completion time
    - First time approval rate
    - Employee satisfaction
