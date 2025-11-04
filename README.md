@@ -99,11 +99,11 @@ The Employee Transition project is designed to manage employee transitions withi
     - GET /api/employees - List employees
     - POST /api/employees - Create employee
    Onboarding
-      - Get /api/onboarding - List onboarding entires
-      - POST / api/onboarding - Create onboarding entry
+    - Get /api/onboarding - List onboarding entires
+    - POST / api/onboarding - Create onboarding entry
    Offboarding
-       - Get /api/offboarding - List offboarding entires
-      - POST /api/offboarding - Create offboarding entry
+    - Get /api/offboarding - List offboarding entires
+    - POST /api/offboarding - Create offboarding entry
   Documents
     - Get /api/documents - List documents
     - Get /api/documents?category=onboarding - Filter by category
