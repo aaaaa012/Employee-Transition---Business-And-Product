@@ -73,9 +73,8 @@
 
 8. Data Model and API Endpoints
     8.1 Database Schema
-
-       | Table Name      | Key Fields                                                                                      | Description                   |
-| ---------------| ----------------------------------------------------------------------------------------------- | ----------------------------- |
+    Table Name                   Key Fields                                                                     Description                   
+| ---------------| ----------------------------------------------------------------------------------|----------------------------- |
 | users        | id, name, email, password, role, created_at                                         | Tracks system users and roles |
 | employees    | id, name, position, department, email, created_at                                   | Employee details              |
 | onboarding   | id, employee_id, start_date, status, progress, created_at                           | Tracks onboarding process     |
