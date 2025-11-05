@@ -1,6 +1,6 @@
 1. Project Overview
 
-The Employee Transition project is designed to manage employee transitions within an organization, including onboarding, offboarding, role changes, equipment reassignment.
+  The Employee Transition project is designed to manage employee transitions within an organization, including onboarding, offboarding, role changes, equipment reassignment.
 
 2. Business/ Product Objectives:
    - Streamline employee transitions
