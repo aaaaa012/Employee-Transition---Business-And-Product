@@ -63,14 +63,12 @@
     - Allows employees to submit onboarding requests.
     - Key fields, Name, Role, Department, Start Date
       
-
-  Employee Offboarding Form
+   Employee Offboarding Form
      - Enables employees to submit offboarding requests
      - Tracks exit date, approvals, and status
   Document Management Page
      - Central repository for onboarding/offboarding documents
      - Supports filtering by category and document download
-     
   Manager/ HR Dashboard
      - Displays pending requests, KPIs, and progress
      - Helps managers and HR monitor transitions efficiently
