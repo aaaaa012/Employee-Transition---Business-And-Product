@@ -66,14 +66,16 @@
    Employee Offboarding Form
      - Enables employees to submit offboarding requests
      - Tracks exit date, approvals, and status
-  Document Management Page
+ 
+   Document Management Page
      - Central repository for onboarding/offboarding documents
      - Supports filtering by category and document download
-  Manager/ HR Dashboard
+
+   Manager/ HR Dashboard
      - Displays pending requests, KPIs, and progress
      - Helps managers and HR monitor transitions efficiently
 
-8. Data Model and API Endpoints
+9. Data Model and API Endpoints
    
     8.1 Database Schema
    
