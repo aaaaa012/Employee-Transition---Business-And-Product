@@ -1,13 +1,14 @@
 1. Project Overview
+
       The Employee Transition project is designed to manage employee transitions within an organization, including onboarding, offboarding, role changes, equipment                reassignment.
 
-2. Business/ Product Objectives:
+3. Business/ Product Objectives:
    - Streamline employee transitions
    - Automate approvals and notifications
    - Provide transparency and analytics for managers, HR, and executives
    - Enable data-driven decision-making
       
-3. Problem Statement
+4. Problem Statement
    - Manual approval workflows cause delays
    - Lack of visibility for employees and managers
    - Miscommunication between departments
@@ -15,13 +16,13 @@
      
    Goal: Implement an automated, auditable, and transparent system for smooth employee transitions
 
-4. User Stories
+5. User Stories
     - Employee: Submit and track transition requests
     - Department Manager: Approve/reject requests with comments
     - HR Manager: Validate compliance and approve/ reject requests
     - Project Manager: Monitor transitions to avoid disruptions
 
-5. Requirements
+6. Requirements
    
     Functional Requirements
    - Submit and track employees transition requests.
@@ -38,7 +39,7 @@
    - High system reliability
    - Real-time notifications
 
-6. Process Flow
+7. Process Flow
    [Employee] 
    │ submits request
    ▼
@@ -56,7 +57,7 @@
 
 
 
-7. Wireframes
+8. Wireframes
 
    Employee Onboarding Form
     - Allows employees to submit onboarding requests.
