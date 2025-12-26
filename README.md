@@ -11,21 +11,18 @@ This project documents the **Business and Product requirements** for an enterpri
 
 ---
 
-## 📂 Recommended Structure
+## 📂 Repository Structure
 
-Reference this structure to organize the current single-file repository:
+The documentation is organized by functional area:
 
-```
-.
-├── documentation/
-│   ├── 01_Vision_and_Scope.md
-│   ├── 02_User_Stories.md
-│   ├── 03_Process_Flows.md
-│   └── 04_Data_Dictionary.md
-├── assets/
-│   └── diagrams/
-└── README.md
-```
+| Document | Description |
+| :--- | :--- |
+| **[User Requirements](./documentation/01_Requirements.md)** | User Stories, Personas, and NFRs (RBAC, Security). |
+| **[Workflows](./documentation/02_Workflows.md)** | Visual Mermaid diagrams for Onboarding and Offboarding pipelines. |
+| **[Data Model](./documentation/03_Data_Model.md)** | ER Diagram and Data Dictionary. |
+| **[API Specification](./documentation/04_API_Endpoints.md)** | Endpoints for Auth, Employee Management, and Transitions. |
+| **[KPIs & Risks](./documentation/05_KPIs_and_Risks.md)** | Success metrics, Risk matrix, and SWOT analysis. |
+| **[Legacy Notes](./documentation/legacy_details.md)** | Original raw requirement notes. |
 
 ---
 
